@@ -1,6 +1,8 @@
-package org.david.minecraftv1;
+package org.david.minecraftv2;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
+
+
 
 public class ItemgetCustomName{
 
