@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in programming, modeling, basketball and videogames.  
-- 🌱 I’m currently learning java/c/luau.
+- 🌱 I’m currently making projects in react, rust, luau.
 - 📫 How to reach me, you can send me a mail to d.oreskovic.ets@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:My 1st programming language is C.
