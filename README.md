@@ -2,7 +2,7 @@
 
 I build AI-powered desktop applications that actually work in production.
 
-Currently: Built [Hyoom](link) - a voice-controlled AI agent that writes code to automate your computer. 3 months, Rust/TypeScript/Deno, semantic tool discovery, runs 100% locally.
+Currently: Built [Hyoom](https://github.com/Ddavid1785/Hyoom) - a voice-controlled AI agent that writes code to automate your computer. 3 months, Rust/TypeScript/Deno, semantic tool discovery, runs 100% locally.
 
 Open to: Freelance, contract work, long-term projects involving AI automation or desktop tooling.
 
