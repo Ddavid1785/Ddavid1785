@@ -1,46 +1,17 @@
-🧠 About Me
+# 👋 I'm David
 
-I’m a software developer focused on building real, usable systems, not demos.
+I build AI-powered desktop applications that actually work in production.
 
-I enjoy working close to the system level, designing clean architectures, and turning complex ideas into products that actually work end-to-end — from UI to infrastructure.
+Currently: Built [Hyoom](link) - a voice-controlled AI agent that writes code to automate your computer. 3 months, Rust/TypeScript/Deno, semantic tool discovery, runs 100% locally.
 
-My main interests are:
+Open to: Freelance, contract work, long-term projects involving AI automation or desktop tooling.
 
-AI-powered applications
+## 🛠️ Stack
+- **Languages:** Rust, TypeScript, C, Java
+- **Desktop:** Tauri, native integrations
+- **AI:** Multi-provider LLMs, local inference, structured outputs
+- **Focus:** Clean architecture, performance, maintainability
 
-Desktop software
-
-Tooling and automation
-
-Systems that integrate software with the real world
-
-🛠️ Technologies & Tools
-
-Languages: Rust, TypeScript, JavaScript, Luau, C, Java,
-
-Desktop: Tauri, native process management
-
-AI / LLMs: multi-provider integrations, local inference, structured outputs
-
-Tooling: Deno, Node.js, Zod, modular SDK-based architectures
-
-Focus: maintainability, performance, clean abstractions
-
-🤝 Work & Collaboration
-
-I’m open to:
-
-Freelance or contract work
-
-Long-term projects
-
-Collaborations on technically interesting products
-
-If you’re looking for someone who can design and build, not just implement tickets, feel free to reach out.
-
-📫 Contact
-
-GitHub Issues / Discussions
-
-email: d.oreskovic.ets@gmail.com
-X: @Ddavid1785
+## 📫 Contact
+- X: [@Ddavid1785](link)
+- Email: d.oreskovic.ets@gmail.com
