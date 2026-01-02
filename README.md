@@ -42,5 +42,5 @@ If you’re looking for someone who can design and build, not just implement tic
 
 GitHub Issues / Discussions
 
-Gmail: d.oreskovic.ets@gmail.com
+email: d.oreskovic.ets@gmail.com
 X: @Ddavid1785
