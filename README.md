@@ -14,30 +14,6 @@ Tooling and automation
 
 Systems that integrate software with the real world
 
-🚀 Featured Project — Hyoom
-
-Hyoom is an AI desktop assistant designed as a modular, extensible system rather than a single-purpose app.
-
-It supports:
-
-Multiple AI providers and inference backends
-
-Local models (Ollama, LM Studio)
-
-Context compression and summarization
-
-Typed model responses with runtime validation
-
-Clean process management (no zombie processes)
-
-Desktop UI with full model and conversation control
-
-This project focuses heavily on architecture, provider abstraction, and long-term extensibility rather than quick wins.
-
-Hyoom is not a wrapper — it’s a system.
-
-https://github.com/Ddavid1785
-
 🛠️ Technologies & Tools
 
 Languages: Rust, TypeScript, JavaScript, Luau, C, Java,
@@ -49,16 +25,6 @@ AI / LLMs: multi-provider integrations, local inference, structured outputs
 Tooling: Deno, Node.js, Zod, modular SDK-based architectures
 
 Focus: maintainability, performance, clean abstractions
-
-📌 What I Care About
-
-Writing code that scales in complexity, not just size
-
-Understanding systems deeply instead of stacking libraries blindly
-
-Shipping things that work reliably, not just look good
-
-Building skills that compound long-term
 
 🤝 Work & Collaboration
 
